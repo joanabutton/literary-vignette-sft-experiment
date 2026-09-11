@@ -2,7 +2,7 @@
 
 An academic supervised fine-tuning (SFT) experiment that transforms short factual scene descriptions into atmospheric literary vignettes.
 
-This project was created for the **Deep Learning** course in the **Executive Masters in Business Analytics and AI** at **Porto Business School**. Course instructor: **Andre Santana**.
+This project was created for the **Deep Learning** course in the **Executive Masters in Business Analytics and AI** at **Porto Business School**. Course instructor: **André Santana**.
 
 ## Objective
 
